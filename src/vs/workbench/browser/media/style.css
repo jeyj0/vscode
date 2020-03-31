@@ -271,3 +271,9 @@ body.web {
 .monaco-workbench .monaco-list:focus {
 	outline: 0 !important; /* tree indicates focus not via outline but through the focused item */
 }
+
+/* jeyj0 custom styles */
+
+.monaco-quick-open-widget, .quick-input-widget {
+	top: 20vh !important;
+}
