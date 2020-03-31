@@ -17,7 +17,7 @@
 .windows:lang(ja) { font-family: "Segoe WPC", "Segoe UI", "Yu Gothic UI", "Meiryo UI", sans-serif; }
 .windows:lang(ko) { font-family: "Segoe WPC", "Segoe UI", "Malgun Gothic", "Dotom", sans-serif; }
 
-.linux { font-family: "Ubuntu", "Droid Sans", sans-serif; }
+.linux { font-family: "Hack", "Fira Code", "Ubuntu", "Droid Sans", sans-serif; }
 .linux:lang(zh-Hans) { font-family: "Ubuntu", "Droid Sans", "Source Han Sans SC", "Source Han Sans CN", "Source Han Sans", sans-serif; }
 .linux:lang(zh-Hant) { font-family: "Ubuntu", "Droid Sans", "Source Han Sans TC", "Source Han Sans TW", "Source Han Sans", sans-serif; }
 .linux:lang(ja) { font-family: "Ubuntu", "Droid Sans", "Source Han Sans J", "Source Han Sans JP", "Source Han Sans", sans-serif; }
